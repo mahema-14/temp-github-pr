@@ -1,0 +1,6 @@
+Code review? never heard of it.
+
+If it compiles, it ships.
+If it doesn’t… we ship anyway.
+
+YOLO :))
